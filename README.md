@@ -1,2 +1,2 @@
 # CrashlyticsViewer
-get the recent issues posted in the crashlytics
+Help you to view the recent defects posted in the crashlytics.
